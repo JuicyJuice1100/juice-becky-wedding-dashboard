@@ -1,6 +1,6 @@
 {
   "$schema": "./node_modules/@angular/cli/lib/config/schema.json",
-  "version": 1, 
+  "version": 1,
   "newProjectRoot": "projects",
   "projects": {
     "juice-becky-wedding-dashboard": {
@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "juice-becky-wedding-dashboard"
+    }
+  },
+  "defaultProject": "juice-becky-wedding-dashboard",
+  "cli": {
+    "analytics": "2a8852b8-3803-428a-9222-c4e81c287737"
+  }
 }
